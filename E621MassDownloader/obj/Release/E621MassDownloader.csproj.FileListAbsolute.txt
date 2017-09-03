@@ -1,0 +1,9 @@
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621MassDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621MassDownloader.Form1.resources
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621MassDownloader.Properties.Resources.resources
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621MassDownloader.csproj.GenerateResource.Cache
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Release\E621 Downloader.exe.config
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Release\E621 Downloader.exe
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Release\E621 Downloader.pdb
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621 Downloader.exe
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621 Downloader.pdb

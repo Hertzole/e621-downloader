@@ -1,0 +1,9 @@
+c:\users\offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621MassDownloader.csprojResolveAssemblyReference.cache
+c:\users\offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621MassDownloader.Form1.resources
+c:\users\offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621MassDownloader.Properties.Resources.resources
+c:\users\offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621MassDownloader.csproj.GenerateResource.Cache
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Debug\E621 Downloader.exe.config
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Debug\E621 Downloader.exe
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Debug\E621 Downloader.pdb
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621 Downloader.exe
+C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Debug\E621 Downloader.pdb
