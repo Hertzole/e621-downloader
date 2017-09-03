@@ -7,3 +7,4 @@ C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621Mass
 C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\bin\Release\E621 Downloader.pdb
 C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621 Downloader.exe
 C:\Users\Offic\documents\visual studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621 Downloader.pdb
+C:\Users\Offic\Documents\Visual Studio 2017\Projects\E621MassDownloader\E621MassDownloader\obj\Release\E621MassDownloader.csproj.CoreCompileInputs.cache
